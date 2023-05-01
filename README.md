@@ -2,14 +2,10 @@
 
 **I’m Nicole, A student at Western University studying Computer Science 👩🏻‍💻 <br />**
  
-• 📈 I’m currently learning Machine Learning and about Applied Neural Networks <br />
-• 🔭 I want to work on projects that are in the field of Astronomy/Computer Science or Finance/Computer Science dealing with big data and Machine learning <br />
-• 🏫 I’m looking to collaborate on Software Engineer and Blockchain Development <br />
 • 💻 I create projects where I can use optimization, web scraping and/ or automation <br />
 • 👾 Would be interested to work in VR/AR or Algorithm Developer for Quantitative Trading after Graduation <br />
 • 📧 How to reach me: nicoletraher@gmail.com <br />
-• 🙂 Pronouns: She/Her <br />
-• ♟Fun fact: I love chess! Play me @russianhacker101! <br />
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
