@@ -2,8 +2,6 @@
 
 **I’m Nicole, A student at Western University studying Computer Science 👩🏻‍💻 <br />**
  
-• 💻 I create projects where I can use optimization, web scraping and/ or automation <br />
-• 👾 Would be interested to work in VR/AR or Algorithm Developer for Quantitative Trading after Graduation <br />
 • 📧 How to reach me: nicoletraher@gmail.com <br />
 
 
