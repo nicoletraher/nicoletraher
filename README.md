@@ -2,7 +2,7 @@
 
 **I’m Nicole, A student at Western University studying Computer Science 👩🏻‍💻 <br />**
  
-• 📧 How to reach me: nicoletraher@gmail.com <br />
+📧 How to reach me: nicoletraher@gmail.com <br />
 
 
 🔗 &nbsp;**Connect with me**
