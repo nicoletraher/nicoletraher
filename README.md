@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-**I’m Nicole, A student at Western University studying Computer Science 👩🏻‍💻 <br />**
+**I’m Nicole, A Computer Science student from Canada 👩🏻‍💻 <br />**
  
 📧 How to reach me: nicoletraher@gmail.com <br />
 
